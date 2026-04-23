@@ -1,11 +1,11 @@
-# EventoraHub 🎉
+# EventoraHub 
 
 EventoraHub is a Laravel-based event booking platform where users can browse, book, and manage event reservations, while administrators can manage the entire system through an admin panel.
 
 ![Project Screenshot](./public/screenshots/eventorahub-homepage.png)
 ---
 
-## 🚀 Features
+## Features
 
 ### 👤 Guest Users
 

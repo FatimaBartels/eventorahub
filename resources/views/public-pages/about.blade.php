@@ -7,7 +7,7 @@
 
 
 <section class="py-16 bg-white">
-    <div class="container mx-auto px-6 pt-10">
+    <div class="container max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12 md:py-16">
         <div>
         <h2 class="text-dark text-3xl font-bold mb-5 pt-5">About EventoraHub</h2>
         <p class="text-light text-base leading-7 mb-4">EventoraHub is a modern event booking platform designed to help users discover, explore, and reserve spots for exciting events with ease. Whether you're looking for workshops, concerts, or community gatherings, EventoraHub brings everything together in one place.</p>
