@@ -1,0 +1,16 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use App\Models\Event;
+
+
+class EventController extends Controller
+{
+
+    public function show($id) {
+        $event = Event::findOrFail($id);
+        return view('public-pages.events.show', compact('event'));
+    }
+  
+}
